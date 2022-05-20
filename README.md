@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm PoisonPhang, otherwise known as Connor Davis. I'm a software developer with a passion for language theory, Optimization, and Rust (the language not the game).
+I'm PoisonPhang, otherwise known as Connor Davis. I'm a software developer with a passion for language theory, optimization, and Rust (the language not the game).
 
 ## 🔭 I’m currently working on 
 
