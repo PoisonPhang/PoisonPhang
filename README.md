@@ -4,7 +4,7 @@ I'm PoisonPhang, otherwise known as Connor Davis. I'm a software developer with 
 
 ## 🔭 I’m currently working on 
 
-* The future of DeFi @ComposableFi
+* The future of Web3 Infrastructure @ComposableFi
 
 ## 🌱 I’m currently learning 
 
