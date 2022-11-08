@@ -29,26 +29,6 @@ Coffee, I know way too much about coffee for someone who's never worked as a bar
   </a>
 </div>
 
-## 😄 Pronouns: he/him
-
-## :hammer_and_wrench: Languages & Tools
-
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="CSharp" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" alt="Firefox" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" alt="Vim" width="40" height="40"/>
-</div>
-
 ## :fire: My Stats:
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=PoisonPhang&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
