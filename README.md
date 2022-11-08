@@ -27,6 +27,9 @@ Coffee, I know way too much about coffee for someone who's never worked as a bar
   <a href="https://twitter.com/PoisonPhang">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://gitlab.com/poisonphang">
+    <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+  </a>
 </div>
 
 ## :fire: My Stats:
