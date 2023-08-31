@@ -35,7 +35,5 @@ Coffee, I know way too much about coffee for someone who's never worked as a bar
 
 ## :fire: My Stats:
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=PoisonPhang&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoisonPhang&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
 
