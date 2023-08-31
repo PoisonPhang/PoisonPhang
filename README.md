@@ -12,6 +12,8 @@ I'm PoisonPhang, otherwise known as Connor Davis. I'm a software developer with 
 
 * [Substrate](https://github.com/paritytech/substrate)
 
+* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk)
+
 * [Bevy](https://github.com/bevyengine/bevy)
 
 ## 💬 Ask me about 
@@ -30,7 +32,6 @@ Coffee, I know way too much about coffee for someone who's never worked as a bar
   <a href="https://gitlab.com/poisonphang">
     <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
-  <a rel="me" href="https://mastodon.sdf.org/@poisonphang">Mastodon</a>
 </div>
 
 ## :fire: My Stats:
